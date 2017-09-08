@@ -1,4 +1,4 @@
-# This is a Test Repo for learning about Git
+# This is a Test Repo for learning about Git: `git` & GitHub
 
 ## Fork and clone this repo
 
