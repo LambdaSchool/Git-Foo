@@ -3,7 +3,5 @@
 ## Fork and clone this repo
 
 ### Add Your name to the list Below
+* Tai the Thai
 * Ryan Hamblin
-* Tyge Johnson
-* Jesh Yoon
-* Patrick Kennedy
