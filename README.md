@@ -1,13 +1,27 @@
 # This is a Test Repo for learning about Git & Pair Programming
 
 ## For pair programming “collaboration” with GitHub
-1) Person A forks the Lambda School repository.
-2) Person A adds person B as a Collaborator.
-3) Person B accepts invite.
-4) Both clone person A’s repository.
-    - `git clone {person A's URL}`
-5) Upon the first saved change, person A commits, pushes and makes a Pull Request.
-6) Work together, push and pull changes as you push commits & commit often!
+1. Person A forks the Lambda School repository.
+2. Person A adds person B as a Collaborator.
+3. Person B accepts invite.
+4. Both clone person A’s repository to their computers, for example:
+    ```console
+    $ git clone clone https://github.com/Person-A/Git-Foo.git
+        Cloning into 'Git-Foo'...
+        remote: Counting objects: 330, done.
+        remote: Compressing objects: 100% (138/138), done.
+        remote: Total 330 (delta 83), reused 171 (delta 56), pack-reused 124
+        Receiving objects: 100% (330/330), 1.31 MiB | 1.25 MiB/s, done.
+        Resolving deltas: 100% (126/126), done.
+    ```
+5. Work together, switch coding roles every half hour.
+6. Upon the first switch, save all changes, and commit them in your local Git repository
+7. Push the commits to person A's GitHub repository
+8. Make a Pull Request to Lambda School from person A's GitHub repository.
+9. Person B pulls in the commits from Person A's GitHub repository.
+10. Push and pull changes as you switch.
+11. Commit often!
+12. Attend the end of day stand up meeting.
 
 ## Teaching Assistant's Afternoon Project Time Checklist
 
