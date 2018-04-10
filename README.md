@@ -15,13 +15,15 @@
         Resolving deltas: 100% (126/126), done.
     ```
 5. Work together, switch coding roles every half hour.
-6. Upon the first switch, save all changes, and commit them in your local Git repository
+6. Upon the first switch<sup>*</sup>, save all changes, and commit them in your local Git repository
 7. Push the commits to person A's GitHub repository
 8. Make a Pull Request to Lambda School from person A's GitHub repository.
 9. Person B pulls in the commits from Person A's GitHub repository.
 10. Push and pull changes as you switch.
 11. Commit often!
 12. Attend the end of day stand up meeting.
+
+##### <sup>*</sup> You are welcome to make a Pull Request upon the first commit of any change you make to the project. While a Pull Request is "open" any subsequent commits which get pushed to your GitHub repository will be automatically added to the open PR.
 
 ## Teaching Assistant's Afternoon Project Time Checklist
 
